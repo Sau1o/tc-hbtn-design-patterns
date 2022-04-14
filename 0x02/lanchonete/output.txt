@@ -1,0 +1,11 @@
+        Fora da Caixa:
+                - BEBIDA COCA_COLA
+        Dentro da Caixa:
+                - BRINDE CARRO
+                - BATATA GRANDE
+                - LANCHE CHEESEBURGUER
+
+        Fora da Caixa:
+                - BEBIDA GUARANA
+        Dentro da Caixa:
+                - BATATA PEQUENA
