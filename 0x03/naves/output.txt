@@ -1,0 +1,6 @@
+  Saude: 100 - Ataque: 50
+  Saude: 270 - Ataque: 30
+  Saude: 210 - Ataque: 60
+  Saude: 210 - Ataque: 60
+  Saude: 75 - Ataque: 95
+  Saude: 200 - Ataque: 190
