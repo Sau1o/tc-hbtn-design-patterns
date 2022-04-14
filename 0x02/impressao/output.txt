@@ -1,0 +1,6 @@
+  total de paginas: 50, total coloridas: 10, total preto e branco: 40, frente e verso. total: R$ 11,50
+  total de paginas: 50, total coloridas: 10, total preto e branco: 40, frente e verso. total: R$ 9,00
+  total de paginas: 23, total coloridas: 7, total preto e branco: 16, frente apenas. total: R$ 6,20
+  total de paginas: 23, total coloridas: 7, total preto e branco: 16, frente apenas. total: R$ 5,05
+  total de paginas: 23, total coloridas: 7, total preto e branco: 16, frente e verso. total: R$ 5,74
+  total de paginas: 50, total coloridas: 10, total preto e branco: 40, frente apenas. total: R$ 15,00
