@@ -4,7 +4,7 @@ public class Ladrao extends Personagem {
         super(nome, TipoPersonagem.LADRAO, inteligencia, forca, vigor, resistencia, destreza);
 
         if ((destreza < forca) || (destreza < inteligencia)) {
-            throw new Exception("Atributos invalidos para LADRAO");
+            throw new Exception("Atributos invalidos para LADRAO.");
         }
     }
 
